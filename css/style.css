@@ -99,7 +99,7 @@ main {
   margin: 0 auto;
 }
 .main-container h1 {
-  margin: 100px 0 30px 350px;
+  margin: 100px 0 30px 400px;
 }
 .main-contain-area {
   display: grid;
@@ -162,6 +162,9 @@ main {
   background-color: #e02c6d;
   border: 0;
   margin-top: 20px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #dbe2ea;
 }
 /* main-area */
 /* footer */
@@ -184,7 +187,7 @@ footer {
 }
 .footer-icon i {
   color: #dbe2ea;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-bottom: 100px;
 }
 .footer-icon i:first-child {
